@@ -2,15 +2,13 @@
 
 ## The work
 
-For this project, you will be doing work that focuses on social impact.
-
 The prompts are there to help jump-start your ideation process. If you would like to change or combine prompts, that's fine! If you want to find your own idea, even better. **Consult your local instructor for final approval before getting started.**  
 
 Remember to start with a good problem statement!
 
 ## The Data
 
-Some prompts have links to data sources, some don't. It's your responsibility to gather and clean your data. For most projects, this will be the bulk of your work.Start early!
+Some prompts have links to data sources, some don't. It's your responsibility to gather and clean your data. For most projects, this will be the bulk of your work. Start early!
 
 Inspiration for several prompts came from [Data is Plural](https://tinyletter.com/data-is-plural).
 
